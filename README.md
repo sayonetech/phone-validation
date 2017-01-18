@@ -18,6 +18,6 @@ Run Locally
 
 3.Create an input.csv file(see the example)
 
-4.Type python script.py
+4.Type python phone_validation.py
 
 
